@@ -1,0 +1,8 @@
+.DS_S*
+__pycache__/
+HW*-solution.ipynb
+*_utils.py
+*_utils.pyc
+*.py.*
+!HW10-prep.ipynb
+!HW10_utils.py
